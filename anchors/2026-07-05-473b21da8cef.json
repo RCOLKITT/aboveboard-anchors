@@ -1,0 +1,20 @@
+{
+  "project": "aboveboard-ledger",
+  "headHash": "473b21da8cefbd8cbcf0c1584264008418e5c094fd125dc9f11155d012888e58",
+  "datasetHeads": {
+    "anchor:weekly": "75d1ba710b6d52feccbcac77a23b8c9434fd7870f8cc8703d7fb65a88198b160",
+    "census:property_tax_rate:2023": "9a7645f316cb11fbb2de8ac2b10abbdb3a451c0bd97b6c4132c20e60b8cc858f",
+    "dpa:programs": "2b716b35d7aa10a6ea7a4ddcaf3a46b61fb34c2852b861063d20dd7b96555af5",
+    "hmda-lar:percentiles:2023": "90b42455ff990dd7fd9da3327a3cca2c84974ee9713e3fbd395ba70d61b3bbee",
+    "hmda-lar:percentiles:2025": "bc063c5c91f84654a56a5c7bc92edb2711ea82e3d6283ece4be53487dbab5ca8",
+    "hmda:loan_amount:2023": "919dd499229f84dd743e192f89b11132f0b35f5fa5f0624b9248b574389cc5eb",
+    "hmda:loan_amount:2025": "b032781346b38f5c1d0f66456095f5b6ba32ccc8aaa3b672e8ee64e481c7f722",
+    "index:edition": "20f52d35a80484df36849c0c4bbe2b606cfff1251be5595608c50498d166b109",
+    "methodology:registry": "7353c6d4de58a0f9ce4b6f803a44f3caf17270032173d2d28fcd8026fe08e41a",
+    "naic:insurance_premium:2022": "f2560d408db32416009d7d2753f297d0c53fac727f315313ef4d32a854e6cbc5",
+    "rate:MORTGAGE15US": "082488449bb13cec9e5f278fbdcbb7c947f9ede8e98b0fec46781e0f3319873b",
+    "rate:MORTGAGE30US": "6df9b92dbc0d3834ac5553e47c37896b0fab795a0a7000d3a268d0fa8464f75a"
+  },
+  "anchoredAt": "2026-07-05T23:45:59.224Z",
+  "verify": "npx tsx scripts/verify-ledger.ts — see /how-we-know"
+}
