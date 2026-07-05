@@ -1,6 +1,6 @@
-# Aboveboard Ledger Anchors
+# CandidCost Ledger Anchors
 
-Weekly snapshots of the Aboveboard data ledger chain head. Every file here is
+Weekly snapshots of the CandidCost data ledger chain head. Every file here is
 a public, timestamped witness: once committed, the ledger history it covers
 cannot be silently rewritten or backdated.
 
